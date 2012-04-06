@@ -1,0 +1,351 @@
+<Benchmark id="STUB" xml:lang="en" xmlns="http://checklists.nist.gov/xccdf/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <status date="2012-04-06">draft</status>
+  <title>STUB</title>
+  <description>STUB</description>
+  <notice id="disclaimer">This XCCDF has been automatically generated, it should only serve as a baseline!</notice>
+  <front-matter>STUB</front-matter>
+  <rear-matter>STUB</rear-matter>
+  <reference href="STUB" />
+  <platform idref="cpe:/o:redhat:enterprise_linux:6" />
+  <version>0.1</version>
+  <Rule id="rule-1" selected="true">
+    <title>stig-01.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-01.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-2" selected="true">
+    <title>stig-02.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-02.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-3" selected="true">
+    <title>stig-03.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-03.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-4" selected="true">
+    <title>stig-04.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-04.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-5" selected="true">
+    <title>stig-05.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-05.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-6" selected="true">
+    <title>stig-06.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-06.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-7" selected="true">
+    <title>stig-07.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-07.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-8" selected="true">
+    <title>stig-08.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-08.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-9" selected="true">
+    <title>stig-09.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-09.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-10" selected="true">
+    <title>stig-10.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-10.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-11" selected="true">
+    <title>stig-11.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-11.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-12" selected="true">
+    <title>stig-12.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-12.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-13" selected="true">
+    <title>stig-13.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-13.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-14" selected="true">
+    <title>stig-14.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-14.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-15" selected="true">
+    <title>stig-15.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-15.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-16" selected="true">
+    <title>stig-16.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-16.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-17" selected="true">
+    <title>stig-17.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-17.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-18" selected="true">
+    <title>stig-18.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-18.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-19" selected="true">
+    <title>stig-19.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-19.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-20" selected="true">
+    <title>stig-20.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-20.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-21" selected="true">
+    <title>stig-21.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-21.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-22" selected="true">
+    <title>stig-22.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-22.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-23" selected="true">
+    <title>stig-23.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-23.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-24" selected="true">
+    <title>stig-24.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-24.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-25" selected="true">
+    <title>stig-25.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-25.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-26" selected="true">
+    <title>stig-26.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-26.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-27" selected="true">
+    <title>stig-27.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-27.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-28" selected="true">
+    <title>stig-28.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-28.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-29" selected="true">
+    <title>stig-30.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-30.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-30" selected="true">
+    <title>stig-31.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-31.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-31" selected="true">
+    <title>stig-32.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-32.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-32" selected="true">
+    <title>stig-33.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-33.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-33" selected="true">
+    <title>stig-34.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-34.sh" />
+    </check>
+  </Rule>
+  <Rule id="rule-34" selected="true">
+    <title>stig-35.sh</title>
+    <description>
+      <xhtml:pre xmlns:xhtml="http://www.w3.org/1999/xhtml">
+STUB</xhtml:pre>
+    </description>
+    <check system="http://open-scap.org/page/SCE">
+      <check-content-ref href="stig-35.sh" />
+    </check>
+  </Rule>
+</Benchmark>
