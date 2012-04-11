@@ -13,12 +13,16 @@
 # Author: Martin Preisler <mpreisle@redhat.com>
 
 def create_check(comment_line, lines):
-    check_nr, description = comment_line.split(") ", 1)
+    check_nr, rest = comment_line.split(") ", 1)
+    check_name, description = rest.split(" ", 1)
     
-    with open("output/stig-%s.sh" % (check_nr), "w") as f:
+    with open("output/stig-GEN00%s.sh" % (check_name), "w") as f:
         f.write("#!/usr/bin/env bash\n")
         f.write("\n")
         f.write("# Generated from content by Steve Grubb, GPLv2+\n")
+        f.write("#\n")
+        f.write("# original description: %s\n" % (description))
+        f.write("\n")
         
         f.write("PATH=/bin:/usr/bin\n\n")
         f.write("# start a subshell\n")
@@ -27,6 +31,7 @@ def create_check(comment_line, lines):
             f.write(line)
 
         f.write(")\n\n")
+        f.write("# we captured output of the subshell, let's interpret it\n")
         f.write("if [ \"$output\" == \"\" ] ; then\n")
         f.write("    exit $XCCDF_RESULT_PASS\n")
         f.write("else\n")
@@ -34,6 +39,7 @@ def create_check(comment_line, lines):
         f.write("    echo \"$output\"\n")
         f.write("    exit $XCCDF_RESULT_FAIL\n")
         f.write("fi\n")
+        f.write("\n")
 
 def main():
     with open("stig-file-test.sh") as f:
